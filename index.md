@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](https://github.com/whartzler/Neural_Network_Charity_Analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
