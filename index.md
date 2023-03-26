@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://github.com/whartzler/Neural_Network_Charity_Analysis)
+[Charity Analysis](https://github.com/whartzler/Neural_Network_Charity_Analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title]([/pdf/sample_presentation.pdf](https://github.com/whartzler/Crowdfunding-ETL))
+[Crowdfunding ETL]([/pdf/sample_presentation.pdf](https://github.com/whartzler/Crowdfunding-ETL))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
