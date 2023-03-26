@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [Charity Analysis](https://github.com/whartzler/Neural_Network_Charity_Analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
